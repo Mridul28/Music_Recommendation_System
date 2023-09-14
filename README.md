@@ -2,4 +2,6 @@
 Consists of
 
 -> Collaborative filtering
+
+
 -> Content filtering
